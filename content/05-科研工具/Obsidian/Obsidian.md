@@ -41,6 +41,15 @@ tags:
 
 
 
+```python
+import pandas as pd
+```
+
+$$
+A = f(x)
+$$
+
+
 
 
 
