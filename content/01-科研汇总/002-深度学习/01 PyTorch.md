@@ -1,6 +1,7 @@
 
 ### 一、基于conda prompt创建pytorch环境
-- conda create -n pytorch python=3.11
+- 打开conda prompt
+- conda create -n pytorch python=3.11 (环境名是pytorch，以及对应的版本)
 - y
 - conda activate pytorch
 - ![[Pasted image 20240825151107.png]]
